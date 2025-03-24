@@ -6,6 +6,7 @@
 ```
 The music video for Rihanna’s song **American Oxygen** depicts various moments from American history, including the inauguration of Barack Obama.
 ```
+> Preview
 
 The music video for Rihanna’s song **American Oxygen** depicts various moments from American history, including the inauguration of Barack Obama.
 
@@ -18,6 +19,7 @@ The music video for Rihanna’s song **American Oxygen** depicts various moments
 ```
 Why, sometimes I’ve believed as many as _six_ impossible things before breakfast.
 ```
+> Preview
 
 Why, sometimes I’ve believed as many as _six_ impossible things before breakfast.
 ***
@@ -28,6 +30,7 @@ Why, sometimes I’ve believed as many as _six_ impossible things before breakfa
 ```
 **Everyone _must_ attend the meeting at 5 o’clock today.**
 ```
+> Preview
 
 **Everyone _must_ attend the meeting at 5 o’clock today.**
 ***
@@ -38,6 +41,8 @@ I am totally awesome.*
 
 * for certain very small values of awesome
 ```
+> Preview
+
 I am totally awesome.*
 
  * for certain very small values of awesome
