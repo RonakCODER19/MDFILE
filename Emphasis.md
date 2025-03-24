@@ -6,8 +6,11 @@
 ```
 The music video for Rihanna’s song **American Oxygen** depicts various moments from American history, including the inauguration of Barack Obama.
 ```
+
 The music video for Rihanna’s song **American Oxygen** depicts various moments from American history, including the inauguration of Barack Obama.
+
 ***
+
 > ### Make the word “six” italic:
 
 `  _six_ `
