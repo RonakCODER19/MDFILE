@@ -1,6 +1,10 @@
+![](https://github.com/RonakCODER19/MDFILE/blob/main/image/Screenshot%20(299).png?raw=true)
+***
 > ## Make this quote a proper blockquote – be sure to remove the “” characters, too:
 
 ` > Somewhere`
+
+![](https://github.com/RonakCODER19/MDFILE/blob/main/image/Screenshot%20(300).png?raw=true)
 
 ```
 The quote
@@ -18,6 +22,7 @@ Somewhere, something incredible is waiting to be known
 has been ascribed to Carl Sagan.
 
 ***
+![](https://github.com/RonakCODER19/MDFILE/blob/main/image/Screenshot%20(301).png?raw=true)
 
 ```
 My favorite Miss Manners quotes:
